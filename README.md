@@ -1,4 +1,4 @@
-# Machine Learnin with Python
+# Machine Learning with Python
 
 
 1. [Supervised Learning - Classification][1]
