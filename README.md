@@ -13,8 +13,17 @@
     
     Lasso and Ridge Regression to avoid overfitting.
 
+4. [Evaluating Model's Performance][4]
+    
+    This section includes informative measures to assess performance such as  Confusion Matrix, Classification Report, Logictic Regression, ROC Curve and AUC.
+    
+5. [Hyperparameter Tuning][5]
+    
+    A **hyperparameter**, is a parameter whose value is not learned but set before the model fitting. This section includes Grid Search and Random Search.
 
 ---
 [1]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Supervised%20Learning-Classification.ipynb
 [2]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Supervised%20Learning-Regression.ipynb
 [3]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Supervised%20Learning-Regularization.ipynb
+[4]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Evaluating%20Model's%20Performance.ipynb
+[5]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Hyperparameter%20Tuning.ipynb
