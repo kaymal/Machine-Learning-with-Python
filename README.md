@@ -15,11 +15,11 @@
 
 4. [Evaluating Model's Performance][4]
     
-    This section includes informative measures to assess performance such as  Confusion Matrix, Classification Report, Logictic Regression, ROC Curve and AUC.
+    Informative measures such as Confusion Matrix, Classification Report, Logictic Regression, ROC Curve and AUC to assess performance.
     
 5. [Hyperparameter Tuning][5]
     
-    A **hyperparameter**, is a parameter whose value is not learned but set before the model fitting. This section includes Grid Search and Random Search.
+    A **hyperparameter** is a parameter whose value is not learned but set before the model fitting. This section includes Grid Search and Random Search.
 
 ---
 [1]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Supervised%20Learning-Classification.ipynb
