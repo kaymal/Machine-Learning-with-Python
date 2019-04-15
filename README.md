@@ -22,7 +22,7 @@
     
 6. [Hyperparameter Tuning][5]
     
-    A **hyperparameter** is a parameter whose value is not learned but set before the model fitting. This section includes Grid Search and Random Search.
+    A **hyperparameter** is a parameter whose value is not learned but set before the model fitting. This section includes Hyperparameter Tuning with _Grid Search_ and _Random Search_.
     
 
 ---
