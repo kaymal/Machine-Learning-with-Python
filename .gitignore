@@ -12,3 +12,8 @@
 .ipynb_checkpoints/Unsupervised Learning-checkpoint.ipynb
 .ipynb_checkpoints/Deep Learning-checkpoint.ipynb
 .ipynb_checkpoints/Pipelines-checkpoint.ipynb
+datasets/hourly_wages.csv
+datasets/mnist.csv
+datasets/titanic_num.csv
+datasets/ufo.csv
+model_file.h5
