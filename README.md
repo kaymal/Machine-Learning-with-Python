@@ -28,6 +28,10 @@
 
     Perform transformations and a final estimator sequentially.
     
+8. [Deep Learning][8]
+    
+    Some basic Deep Learning with Keras.
+    
 ---
 [1]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Preprocessing%20Data%20for%20Machine%20Learning.ipynb
 [2]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Supervised%20Learning-Classification.ipynb
@@ -36,3 +40,4 @@
 [5]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Evaluating%20Model's%20Performance.ipynb
 [6]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Hyperparameter%20Tuning.ipynb
 [7]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Pipelines.ipynb
+[8]: https://github.com/kaymal/Machine-Learning-with-Python/blob/master/Deep%20Learning.ipynb
