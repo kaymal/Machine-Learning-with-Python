@@ -17,3 +17,8 @@ datasets/mnist.csv
 datasets/titanic_num.csv
 datasets/ufo.csv
 model_file.h5
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+datasets/banksim.csv
+datasets/banksim_adj.csv
+datasets/
+.ipynb_checkpoints/
